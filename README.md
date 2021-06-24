@@ -6,6 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=erenkulaksiz&color=ff0000&labelColor=ff0000)
 ![](https://img.shields.io/badge/%20Projects-5-brightgreen?labelColor=7D898B)
+![](https://www.codewars.com/users/erenkulaksz/badges/small)
 
 - Currently working on a android app, will be published in google play market, on July 2021.
 
