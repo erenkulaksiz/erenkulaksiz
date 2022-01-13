@@ -1,2 +1,3 @@
-Curious about me? try running `npx ekz`<br /><br />
+### `npx ekz`
+
 [![](https://github.com/erenkulaksiz/erenkulaksiz/blob/master/dino.gif)](https://chromedino.com)
