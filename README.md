@@ -1,4 +1,4 @@
-### 🌐 [`erenk.dev`](https://erenk.dev)
+### 🌐 [`eren.one`](https://eren.one)
 ### 🖊️ [`codepen.io/erenkulaksiz`](https://codepen.io/erenkulaksiz/pens/public?grid_type=list)
 ### 👨‍💻 `npx ekz`
 ### 💬 "Writing code is simple, writing simple code isn't simple"
